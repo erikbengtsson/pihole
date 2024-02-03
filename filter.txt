@@ -1,0 +1,5 @@
+# title:          Eriks lista
+# last updated:   2024-02-03
+# entries:        1
+# format:         hosts (hosts -- in hosts file format)
+127.0.0.1 a-fds.youborafds01.com
